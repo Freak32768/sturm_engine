@@ -1,0 +1,23 @@
+{
+    "textures": {
+        "ground": "sample/img/dirt.png",
+        "wall": "sample/img/stone.png",
+        "player": {
+            "right": "sample/img/player/right.png",
+            "left": "sample/img/player/left.png"
+        },
+        "shadow": {
+            "light": "sample/img/shadow/light.png",
+            "dark": "sample/img/shadow/dark.png"
+        },
+        "title": "sample/img/title.png",
+        "regen_title": "sample/img/regen.png",
+        "font": "sample/ipagp.ttf",
+        "treasure": "sample/img/treasure.png"
+    },
+    "sounds": {
+        "found_treasure": "sample/snd/found_treasure_9.wav",
+        "next_stage": "sample/snd/next_stage_15.wav",
+        "next_game": "sample/snd/continue_17.wav"
+    }
+}
